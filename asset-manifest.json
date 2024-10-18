@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guardian-optix/static/css/main.299708be.css",
+    "main.js": "/guardian-optix/static/js/main.ccbb4233.js",
+    "static/js/453.55319db8.chunk.js": "/guardian-optix/static/js/453.55319db8.chunk.js",
+    "index.html": "/guardian-optix/index.html",
+    "main.299708be.css.map": "/guardian-optix/static/css/main.299708be.css.map",
+    "main.ccbb4233.js.map": "/guardian-optix/static/js/main.ccbb4233.js.map",
+    "453.55319db8.chunk.js.map": "/guardian-optix/static/js/453.55319db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.299708be.css",
+    "static/js/main.ccbb4233.js"
+  ]
+}
