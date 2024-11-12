@@ -4,7 +4,7 @@ const cors = require('cors');
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors({ origin: 'https://testuser057.github.io' }));
 app.use(express.json());
 
 // MongoDB connection setup
